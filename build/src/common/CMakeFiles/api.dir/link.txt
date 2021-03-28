@@ -1,0 +1,2 @@
+/usr/bin/ar qc libapi.a  CMakeFiles/api.dir/debug.c.o
+/usr/bin/ranlib libapi.a

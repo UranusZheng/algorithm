@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/debug.h
+typedef.h
+../include/typedef.h
+stdio.h
+-
+time.h
+-
+stdarg.h
+-
+
+../include/typedef.h
+
+/mnt/hgfs/share/myproject/algorithm/src/common/debug.c
+debug.h
+/mnt/hgfs/share/myproject/algorithm/src/common/debug.h
+time.h
+-
+

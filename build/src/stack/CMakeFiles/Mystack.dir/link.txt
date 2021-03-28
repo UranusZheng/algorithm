@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMystack.a  CMakeFiles/Mystack.dir/calculate.c.o CMakeFiles/Mystack.dir/stack.c.o
+/usr/bin/ranlib libMystack.a

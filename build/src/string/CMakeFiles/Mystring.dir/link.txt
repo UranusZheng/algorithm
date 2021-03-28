@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMystring.a  CMakeFiles/Mystring.dir/max_subsequence_sum.c.o CMakeFiles/Mystring.dir/sunday.c.o
+/usr/bin/ranlib libMystring.a

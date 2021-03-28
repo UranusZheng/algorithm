@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/debug.h
+typedef.h
+../include/typedef.h
+stdio.h
+-
+time.h
+-
+stdarg.h
+-
+
+../include/errorcode.h
+
+../include/typedef.h
+
+/mnt/hgfs/share/myproject/algorithm/src/string/max_subsequence_sum.c
+typedef.h
+/mnt/hgfs/share/myproject/algorithm/src/string/typedef.h
+debug.h
+/mnt/hgfs/share/myproject/algorithm/src/string/debug.h
+
+/mnt/hgfs/share/myproject/algorithm/src/string/sunday.c
+stdio.h
+-
+stdlib.h
+-
+typedef.h
+/mnt/hgfs/share/myproject/algorithm/src/string/typedef.h
+errorcode.h
+/mnt/hgfs/share/myproject/algorithm/src/string/errorcode.h
+string.h
+-
+

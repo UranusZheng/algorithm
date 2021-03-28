@@ -16,7 +16,6 @@ typedef struct {
     int stackSize;
 } sqStack;
 
-
 uint32 initStack(sqStack *s);
 
 uint32 push(sqStack *s, ElemType e);

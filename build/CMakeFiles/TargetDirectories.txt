@@ -1,0 +1,14 @@
+/mnt/hgfs/share/myproject/algorithm/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/share/myproject/algorithm/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/share/myproject/algorithm/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/share/myproject/algorithm/build/src/CMakeFiles/main.dir
+/mnt/hgfs/share/myproject/algorithm/build/src/CMakeFiles/edit_cache.dir
+/mnt/hgfs/share/myproject/algorithm/build/src/common/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/share/myproject/algorithm/build/src/common/CMakeFiles/api.dir
+/mnt/hgfs/share/myproject/algorithm/build/src/common/CMakeFiles/edit_cache.dir
+/mnt/hgfs/share/myproject/algorithm/build/src/string/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/share/myproject/algorithm/build/src/string/CMakeFiles/Mystring.dir
+/mnt/hgfs/share/myproject/algorithm/build/src/string/CMakeFiles/edit_cache.dir
+/mnt/hgfs/share/myproject/algorithm/build/src/stack/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/share/myproject/algorithm/build/src/stack/CMakeFiles/Mystack.dir
+/mnt/hgfs/share/myproject/algorithm/build/src/stack/CMakeFiles/edit_cache.dir
